@@ -1,0 +1,92 @@
+<STYLE type=text/css>BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: white; PADDING-BOTTOM: 0px; MARGIN: 0px; FONT: 80% verdana, arial, sans-serif; PADDING-TOP: 0px
+}
+DL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+DT {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+DD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#menu {
+	LEFT: auto;
+	POSITION: relative;
+	TOP: 1px;
+	clip:   rect(   );
+	font-size: 12px
+}
+DL#menu {
+	WIDTH: 15em
+}
+DL#menu DT {
+	BORDER-RIGHT: gray 1px solid; BORDER-TOP: gray 1px solid; 
+	FONT-WEIGHT: bold; BACKGROUND: #ccc; MARGIN: 2px 0px; 
+	BORDER-LEFT: gray 1px solid; CURSOR: pointer; LINE-HEIGHT: 20px; 
+	BORDER-BOTTOM: gray 1px solid; HEIGHT: 20px; TEXT-ALIGN: center
+}
+DL#menu DD {
+	BORDER-RIGHT: gray 1px solid; BORDER-TOP: gray 1px solid; 
+	BORDER-LEFT: gray 1px solid; BORDER-BOTTOM: gray 1px solid
+}
+DL#menu LI {
+	BACKGROUND: #fff; TEXT-ALIGN: left
+}
+DL#menu LI A {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; DISPLAY: block; 
+	BORDER-LEFT: 0px; COLOR: #0000CC; BORDER-BOTTOM: 0px; 
+	HEIGHT: 100%; TEXT-DECORATION: none; 
+	text-align: left; font-size: 10px
+}
+DL#menu DT A {
+	BORDER-RIGHT: 0px;
+	BORDER-TOP: 0px;
+	DISPLAY: block;
+	BORDER-LEFT: 0px;
+	COLOR: #E9E900;
+	BORDER-BOTTOM: 0px;
+	HEIGHT: 100%;
+	TEXT-DECORATION: none
+}
+DL#menu LI A:hover {
+	BACKGROUND: #eee
+	;
+	text-decoration: underline;
+	left: 10px;
+	color: #FFFF00;
+}
+DL#menu DT A:hover {
+	BACKGROUND: #eee
+}
+#mentions {
+	LEFT: 10px; COLOR: #000; BOTTOM: 200px; FONT-FAMILY: verdana, arial, sans-serif; 
+	POSITION: absolute; BACKGROUND-COLOR: #ddd
+}
+#mentions A {
+	COLOR: #222; TEXT-DECORATION: none
+}
+#mentions A:hover {
+	TEXT-DECORATION: underline
+}
+a:hover {
+	text-decoration: underline;
+}
+
+</STYLE>
+h2 {  font-family: Arial, Helvetica, sans-serif; font-size: 16pt; color: #0000CC; text-decoration: underline}
+h3 {  font-family: "Times New Roman", Times, serif; font-size: 16px; color: #0000CC; text-decoration: underline}
+h2 {  font-family: "Times New Roman", Times, serif; font-size: 18px; font-style: italic; color: #0000CC; text-decoration: underline}
+h1 {  font-family: "Times New Roman", Times, serif; font-size: 24pt; font-style: italic; color: #FFFF00; background-position: center}
+
+.imag_etiree {
+	background-color: #84A9E0;
+	background-image: url(../Images/ciel01.jpg);
+	background-repeat: repeat-y;
+}
